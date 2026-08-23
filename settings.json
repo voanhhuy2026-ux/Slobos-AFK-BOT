@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vanmuon.aternos.me",
-    "port":   55178,
+    "port":    55178,
     "version": "1.21.1"
   },
   "position": {
